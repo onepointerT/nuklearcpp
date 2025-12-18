@@ -1,0 +1,8 @@
+[submodule "lib/pantheon"]
+    path = lib/pantheon
+    url = https://github.com/onepointerT/pantheon.git
+    tag = 0a67af4947b616a3df0b6b0e0bf23373e46ab321
+[submodule "lib/nuklear"]
+    path = lib/nuklear
+    url = https://github.com/onepointerT/nuklear.git
+    tag = 6b9f937475db9280d966f44f469bc80191b5092a
